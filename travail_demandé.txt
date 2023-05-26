@@ -1,0 +1,2 @@
+Faire une présentation power point avec exemple de code sur t-SNE (t-distributed Stochastic Neighbor Embedding) et un rapport à soumettre avant Samedi.
+Note : Groupe de 5 personnes.
